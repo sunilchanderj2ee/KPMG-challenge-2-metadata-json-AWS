@@ -1,4 +1,4 @@
-# aws-metadata-json
+# KPMG-challenge-2 metadata-json-AWS
 
 ## What it does
 - Query the metadata of an ec2 instance within AWS and provide a json formatted output. 
