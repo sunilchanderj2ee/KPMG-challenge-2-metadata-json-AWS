@@ -23,8 +23,8 @@
 - Open the `src` folder
   - `cd KPMG-challenge-2-metadata-json-AWS/src`
 - Run whichever script you need:
-  - `python3 get_metadata.py`
-  - `python3 get_key.py`
+  - ` pipenv run python3 get_metadata.py`
+  - ` pipenv run python3 get_key.py`
 
 ## How it works
 - It makes use of the http://169.254.169.254/latest/meta-data link-local address. Instance metatada is provided at this link, but only when you visit it from a running instance.
