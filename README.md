@@ -14,14 +14,14 @@
 - Install pipenv
   - `sudo pip3 install pipenv`
 - Open the repository on your instance
-  - `cd aws-metadata-json`
+  - `cd KPMG-challenge-2-metadata-json-AWS`
 - Install project dependancies
   - `pipenv install`
 
 
 ## How to run
 - Open the `src` folder
-  - `cd aws-metadata-json/src`
+  - `cd KPMG-challenge-2-metadata-json-AWS/src`
 - Run whichever script you need:
   - `python3 get_metadata.py`
   - `python3 get_key.py`
