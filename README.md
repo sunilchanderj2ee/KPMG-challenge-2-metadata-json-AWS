@@ -13,7 +13,7 @@
   - `git clone https://github.com/sunilchanderj2ee/KPMG-challenge-2-metadata-json-AWS`
 - Install pipenv
   - `sudo pip3 install pipenv`
-- Open the repository on your instance
+- Open the repository on your instance "KPMG-challenge-2...."
   - `cd KPMG-challenge-2-metadata-json-AWS`
 - Install project dependancies
   - `pipenv install`
